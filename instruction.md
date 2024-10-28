@@ -1,18 +1,26 @@
 # Instructions
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
-
-  ![](./reddit-client-loading-slow.webp)
+  - [Build Your Own Reddit App](#build-your-own-reddit-app)
+  - [Example Project](#example-project)
+  - [Project Requirements](#project-requirements)
+- [Setup](#setup)
+  - [Going off platform](#going-off-platform)
+  - [Reddit API](#reddit-api)
+- [Resources](#resources)
+  - [Debugging Tips + Helpful Resources](#debugging-tips--helpful-resources)
+  - [Example Code](#example-code)
+- [Project Tasks](#project-tasks)
+  - [Plan your project](#plan-your-project)
+  - [Wireframe your application](#wireframe-your-application)
+  - [Create files and run it locally](#create-files-and-run-it-locally)
+  - [Version control](#version-control)
+  - [Build the components](#build-the-components)
+  - [Add Reddit data](#add-reddit-data)
+  - [Publish to the web](#publish-to-the-web)
+  - [Next steps](#next-steps)
 
 ## Overview
 
